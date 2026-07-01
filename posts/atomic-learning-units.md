@@ -31,11 +31,11 @@ Most arguments for microlearning focus on learner psychology — spaced repetiti
 
 But there's a second beneficiary that gets less attention: the content production team.
 
-When content is atomic, **updates don't require re-shooting.** If tax regulations change, you update the one module about tax calculations — not the entire finance course. If a software tool's UI changes, you replace the one screen-recording that shows that specific flow.
+When content is atomic, **updates don't require re-shooting.** If regulations change, you update the one module covering that topic — not the entire course. If a software tool's UI changes, you replace the one screen-recording that shows that specific flow.
 
 A monolithic lesson ties together concepts, examples, and demonstrations that have different update frequencies. When any one of them changes, everything around it becomes outdated.
 
-At Armstrong, switching to atomic content units cut our update cycle from weeks to days. A module that would have required re-shooting 45 minutes of footage now requires replacing two 6-minute segments.
+Switching to atomic content units typically cuts update cycles from weeks to days. A change that would have required re-shooting 45 minutes of footage now requires replacing two 6-minute segments.
 
 ## How to Decompose a Complex Skill
 
