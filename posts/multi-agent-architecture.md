@@ -1,5 +1,5 @@
 ---
-title: The Multi-Agent Architecture Behind Armstrong AI
+title: The Multi-Agent Architecture for Education
 date: 2026-06-15
 tags: AI · Architecture
 excerpt: Why a single LLM prompt wasn't enough — and how splitting curriculum generation into specialized agents cut production time while improving consistency across the e-learning team.
@@ -7,7 +7,7 @@ excerpt: Why a single LLM prompt wasn't enough — and how splitting curriculum 
 
 ## The Problem With One Prompt
 
-When we first started automating curriculum production at Armstrong, the obvious move was to throw a big prompt at Gemini and ask it to produce a full lesson.
+When we first started automating curriculum production , the obvious move was to throw a big prompt at Gemini and ask it to produce a full lesson.
 
 It worked — sometimes. The quality was inconsistent. A great lesson on Monday, a mediocre one on Tuesday, and nobody could explain why.
 
