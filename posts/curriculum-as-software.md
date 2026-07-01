@@ -46,7 +46,7 @@ We use a CODEOWNERS-style assignment. Every module has an owner. Changes require
 Our curriculum now has:
 - A dependency graph (built in Notion, visualized in Figma)
 - Module specs that define inputs/outputs before a single word is written
-- An automated QA pipeline (our Armstrong AI system) that checks new content against the spec
+- An automated QA pipeline (our  AI system) that checks new content against the spec
 - A versioning system — curriculum v2.3, not just "the updated version"
 
 ## The Result
