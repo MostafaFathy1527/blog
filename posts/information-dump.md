@@ -7,9 +7,9 @@ excerpt: Every platform has content. The ones that actually change behavior have
 
 ## The Mistake Every New EdTech Platform Makes
 
-When we started scaling e-learning at Armstrong, the first instinct was to produce more content. More videos, more modules, more topics. We had subject matter experts, a studio, and an LMS.
+The first instinct when scaling an e-learning program is to produce more content. More videos, more modules, more topics. You have subject matter experts, a studio, and an LMS.
 
-What we didn't have was a clear answer to one question: **what should a learner be able to do differently after finishing this?**
+What most teams don't have is a clear answer to one question: **what should a learner be able to do differently after finishing this?**
 
 Without that answer, you don't have a course. You have a content dump.
 
@@ -44,19 +44,21 @@ If most learners fail an exit quiz, that's a design problem, not a learner probl
 
 ## The Two-Sentence Test
 
-For every lesson, I write two sentences before a single word of content is produced:
+For every lesson, write two sentences before a single word of content is produced:
 
 1. What the learner must know coming in.
 2. What they can do going out.
 
-If I can't write sentence two clearly, the lesson isn't a real instructional unit yet — it's content waiting for a structure.
+If sentence two can't be written clearly, the lesson isn't a real instructional unit yet — it's content waiting for a structure.
 
 Software engineers think about this automatically. It's the module interface: inputs, outputs, no hidden dependencies. Instructional design is the same thing applied to how humans learn.
 
-## The Result
+## Why This Changes Everything
 
-At Armstrong, applying this framework reduced average QA revision rounds from 3+ to under 2 — not because the content team got better, but because the structure made failures visible earlier in the process.
+Applying this framework consistently does two things: it reduces QA revision cycles because failures become visible earlier, and it separates the real problem from the symptom.
 
-Courses built this way run 35% higher completion rates compared to topic-first content dumps. Same production quality. Different architecture.
+The symptom is low completion rates and disengaged learners. The real problem is that nobody defined what "done" looks like for the learner before the content was built.
+
+Courses built outcome-first consistently outperform topic-first content — not because of better production, but because of a different architecture.
 
 **The bottleneck in most e-learning programs isn't content production. It's content architecture.**
